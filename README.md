@@ -1,30 +1,13 @@
 ## 📄 Documentation
 
-[https://zzo-docs.vercel.app/zdoc](https://zzo-docs.vercel.app/zdoc)
+Modification of [https://zzo-docs.vercel.app/zdoc](https://zzo-docs.vercel.app/zdoc)
 
 ## Hugo Theme Zdoc
 
-Zdoc is a documentation theme for Hugo. It looks simple and provide many shortcodes. Also, you can make a blog with it.
+Zdocm is a documentation theme for Hugo from the original zdoc/zzo theme. It is tailored for education and only meant to support english. References to other languages will be phased out.
 
 ## ❤️ Sponsor
 
-Your support will be of great help in maintaining the project.
-
-<a href="https://www.buymeacoffee.com/zzossig" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-## 💡 Features
-
-* Dark mode
-* Mobile menu
-* Search
-* Search Engine Optimization(SEO)
-* Multilingual (i18n)
-* Responsive design
-* Fast code highlighting
-* Blog support
-* Table Of Contents(toc)
-* Code Tab
-* Blog
 
 ## Minimum Hugo version
 
