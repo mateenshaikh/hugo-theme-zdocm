@@ -5,10 +5,17 @@
   weight = 1
 
 [[main]]
-  identifier = "updates"
-  name = "Updates"
-  url = "updates"
+  identifier = "Notes"
+  name = "Notes"
+  url = "notes"
   weight = 2
+
+[[main]]
+  identifier = "Acknowledgements"
+  name = "Acknowledgements"
+  url = "acknowledgements"
+  weight = 4
+
 
 [[main]]
   identifier = "blog"
