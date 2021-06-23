@@ -14,11 +14,4 @@
   identifier = "Acknowledgements"
   name = "Acknowledgements"
   url = "acknowledgements"
-  weight = 4
-
-
-[[main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "blog"
   weight = 3
